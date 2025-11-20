@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "usuario": "admin",
+        "nome_completo": "Administrador do Sistema",
+        "data_registro": "17/11/2025 20:42",
+        "data_plantao": "17/11/2025",
+        "turno": "Manhã",
+        "regional": "Leste",
+        "informacoes": "Programada de cliente isolado para enviar equipe ás 14:00, equipe CPXSN03 ciente",
+        "operadores_notificados": [
+            "algs",
+            "bcdc",
+            "dess",
+            "ddr2",
+            "iec",
+            "rgpcr",
+            "srl",
+            "vcc2",
+            "wsf9"
+        ],
+        "manutencao_acionada": true,
+        "componente_manutencao": [
+            "Trafo"
+        ],
+        "numero_ss": [
+            "6778"
+        ],
+        "tecnico_acionado": [
+            "Lucas PCM"
+        ],
+        "numero_oc": [
+            "2025-306434"
+        ],
+        "equipe_nao_apresentou": true,
+        "equipe_ausente": [
+            "MGBSN03"
+        ],
+        "motivo_ausencia": [
+            "Atestado Médico"
+        ],
+        "area_fora": true,
+        "componente_area_fora": [
+            "Trafo"
+        ],
+        "numero_componente_area_fora": [
+            "8020"
+        ],
+        "equipes_acionadas": [
+            "JPSSN01"
+        ],
+        "linha_viva_acionada": true,
+        "detalhes_linha_viva": "EPBLV04 - Em poda de arvore sobre o Trecho do alimentador JPS21L5",
+        "os_priorizar": [
+            "8825367624"
+        ],
+        "oc_18h": [
+            "2025-306020"
+        ],
+        "oc_24h": [
+            "2025-306021"
+        ],
+        "transferencia_carga": true,
+        "alimentadores_envolvidos": "Alivio de carga do JPS21L3 pelo Religador de linha do CRI21L4",
+        "rascunho": false,
+        "data_plantao_iso": "2025-11-17"
+    },
+    {
+        "id": 2,
+        "usuario": "wsf9",
+        "nome_completo": "Weverton Silvino Felipe",
+        "data_registro": "17/11/2025 20:54",
+        "data_plantao": "17/11/2025",
+        "turno": "Tarde",
+        "regional": "Oeste",
+        "informacoes": "Programada na Caixa econômica ás 15:00 enviar equipe para normalizar o trafo ",
+        "operadores_notificados": [
+            "algs",
+            "bcdc",
+            "dess",
+            "ddr2",
+            "efg3",
+            "iec",
+            "jof8",
+            "rgpcr",
+            "vcc2"
+        ],
+        "manutencao_acionada": true,
+        "componente_manutencao": [
+            "Trafo",
+            "Poste"
+        ],
+        "numero_ss": [
+            "3889/2025",
+            "3020/2025"
+        ],
+        "tecnico_acionado": [
+            "Flaviano PCM",
+            "Flaviano PCM"
+        ],
+        "numero_oc": [
+            "2025-306663",
+            "2025-306664"
+        ],
+        "equipe_nao_apresentou": true,
+        "equipe_ausente": [
+            "PTSSN01",
+            "PTSCR05"
+        ],
+        "motivo_ausencia": [
+            "Atestado Médico",
+            "Falta"
+        ],
+        "area_fora": true,
+        "componente_area_fora": [
+            "Trafo",
+            "Alimentador"
+        ],
+        "numero_componente_area_fora": [
+            "2022",
+            "SZA21L2"
+        ],
+        "equipes_acionadas": [
+            "PTSSN02",
+            "SZASN01 e SZASN02"
+        ],
+        "linha_viva_acionada": true,
+        "detalhes_linha_viva": "ECOLV05 - troca de isolador a frente do Componente 5020 L2 de TXR",
+        "os_priorizar": [
+            "8846565465"
+        ],
+        "oc_18h": [
+            "2025-306465"
+        ],
+        "oc_24h": [
+            "2025-306421"
+        ],
+        "transferencia_carga": true,
+        "alimentadores_envolvidos": "Desarme do alimentador de CTR21L4 - transferido pelo Pombal L3",
+        "rascunho": false,
+        "data_plantao_iso": "2025-11-17"
+    },
+    {
+        "id": 3,
+        "usuario": "admin",
+        "nome_completo": "Administrador do Sistema",
+        "data_registro": "18/11/2025 16:16",
+        "data_plantao": "18/11/2025",
+        "turno": "Noite",
+        "regional": "Centro",
+        "informacoes": "Verificar com o supervisor Denis, a respeito das OS que o mesmo informou para priorizar o atendimento.",
+        "operadores_notificados": [
+            "algs",
+            "bcdc",
+            "ddr2",
+            "efg3",
+            "iec",
+            "jof8",
+            "rgpcr",
+            "srl",
+            "vcc2",
+            "wsf9"
+        ],
+        "manutencao_acionada": true,
+        "componente_manutencao": [
+            "Chave"
+        ],
+        "numero_ss": [
+            "b003563"
+        ],
+        "tecnico_acionado": [
+            "Sobreaviso Marquinhos"
+        ],
+        "numero_oc": [
+            "2025-313645"
+        ],
+        "equipe_nao_apresentou": true,
+        "equipe_ausente": [
+            "GBASN01"
+        ],
+        "motivo_ausencia": [
+            "Outros"
+        ],
+        "area_fora": true,
+        "componente_area_fora": [
+            "Trafo",
+            "Rede"
+        ],
+        "numero_componente_area_fora": [
+            "B008532",
+            "8569"
+        ],
+        "equipes_acionadas": [
+            "CGUSN01",
+            "EPBLV08"
+        ],
+        "linha_viva_acionada": true,
+        "detalhes_linha_viva": "EPBLV08 pulo rompido a frente da chave 8569",
+        "os_priorizar": [
+            "8865423565"
+        ],
+        "oc_18h": [
+            "2025-306022"
+        ],
+        "oc_24h": [
+            "2025-306045"
+        ],
+        "transferencia_carga": false,
+        "alimentadores_envolvidos": "",
+        "rascunho": false,
+        "data_plantao_iso": "2025-11-18"
+    }
+]
